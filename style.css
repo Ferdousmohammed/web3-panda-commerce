@@ -1,0 +1,63 @@
+.slider {
+    background-color: antiquewhite;
+    margin: 30px 25px;
+    padding: 25px;
+    border-radius: 15px;
+
+}
+.button {
+    
+        text-decoration: none;
+        background-image: linear-gradient(45deg, aqua,rgb(200, 255, 0));
+        border-radius: 10px;
+        padding: 10px 5px;
+        padding-left: 3%;
+        color: rgb(245, 3, 3);
+        font-weight: 500;    
+
+}
+.cat1 {
+    border: 2px solid orange;
+   margin: 38px 40px;
+   padding: 5px;
+   border-radius: 12px;
+   background-color: rgb(176, 230, 230);
+   height: 130px;
+}
+.cat1 h2 {
+    color: rgb(253, 47, 6);
+    padding: 15px 0px;
+}
+.shoes h1 {
+    margin: 15px 8px;
+}
+.card p {
+    color: rgb(108, 184, 179);
+}
+.card h5 {
+    color: red;
+}
+
+.card h4 {
+    color: rgb(133, 42, 42);
+}
+.like {
+    margin: 10px;
+}
+
+.head {
+    color: red;
+}
+#contact {
+    width: 50%;
+    height: 250px;
+   
+
+}
+footer {
+    text-align: center;
+}
+
+.true {
+    margin: 0px;
+}
